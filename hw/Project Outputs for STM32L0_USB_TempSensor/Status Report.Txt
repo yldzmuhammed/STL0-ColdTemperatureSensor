@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [STM32L0_USB_TempSensor.PcbDoc]
+   Generated File[STM32L0_USB_TempSensor.TXT]
+   Generated File[STM32L0_USB_TempSensor.LDP]
+   Generated File[STM32L0_USB_TempSensor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 09:47:25 On 02.06.2020

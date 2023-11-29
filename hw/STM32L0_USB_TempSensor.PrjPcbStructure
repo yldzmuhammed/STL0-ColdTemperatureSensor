@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=STM32L0_USB_TempSensor.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=STM32L0_USB_TempSensor.SchDoc|Designator=U_Sensor-Flash|SchDesignator=U_Sensor-Flash|FileName=Sensor-Flash.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Sensor-Flash.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=STM32L0_USB_TempSensor.SchDoc|Designator=U_STM32L0|SchDesignator=U_STM32L0|FileName=STM32L0.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=STM32L0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
